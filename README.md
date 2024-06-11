@@ -4,7 +4,7 @@ Welcome! This is BoooC, a graduate student in EE at NYCU.
 
 <p align="center">
 <a href="https://github.com/BoooC">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10&color=B1AEF7&background=FFFFFF00&center=true&multiline=true&width=1000&height=80&lines=Researcher+%7C+Master+Student;Electrical+Engineering+%7C+Digital+IC+Design" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=10&color=B1AEF7&background=FFFFFF00&center=true&multiline=true&width=1000&height=80&lines=NYCH+EE+%7C+Master+Student;Digital+IC+Design+%7C+DNN+Accelerator" alt="Typing SVG" />  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BoooC)  
