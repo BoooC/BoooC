@@ -13,7 +13,7 @@ Welcome! This is BoooC, a graduate student in EE at NYCU.
 Quick Bio
 - I am currently a graduate student in NYCH working on DNN Accelerator and Digital IC Design
 
-<!--  -->
+<!-- 
 ## GitHub Statistics  
 <!-- GitHub Statistics -->
 <div >
@@ -24,7 +24,7 @@ Quick Bio
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BoooC&theme=github" /></div>
-<!--  -->
+-->
 
 
 ## 📚 Langues  
