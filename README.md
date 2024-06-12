@@ -10,10 +10,15 @@ Welcome! This is BoooC, a graduate student in EE at NYCU.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BoooC)  
   
 
-Quick Bio
-- I am currently an undergraduate student at NCHU EE and plan to enroll in the master's program at NYCU EE in the fall of 2024, primarily focusing on Digital IC Design and DNN Hardware Accelerators.
+## 📖 Quick Bio
+- Current Status: NCHU EE, Undergraduate in Electrical Engineering
+- Future Plans: NYCU EE, Master's Program starting Fall 2024
+- Research Focus: Specialization in Digital IC Design and DNN Hardware Accelerators
+- Academic Goals: Develop expertise in cutting-edge digital circuit technologies and deep learning hardware applications
+- Long-Term Vision: Contribute to innovations in semiconductor and artificial intelligence industries
 
-<!-- 
+
+
 ## GitHub Statistics  
 <div >
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=BoooC&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" />
@@ -22,7 +27,7 @@ Quick Bio
 </div>
 
 <div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=BoooC&theme=github" /></div>
--->
+
 
 
 ## 📚 Langues  
