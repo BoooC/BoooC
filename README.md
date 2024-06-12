@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoooC)
 
-Welcome! This is BoooC, an undergraduate student at NCHU EE
+Welcome! This is BoooC, a graduate student in EE at NYCU.
 
 <p align="center">
 <a href="https://github.com/BoooC">
@@ -11,7 +11,7 @@ Welcome! This is BoooC, an undergraduate student at NCHU EE
   
 
 Quick Bio
-- I am currently an undergraduate student at NCHU EE and plan to enroll in the master's program at NYCU EE in the fall of 2024, primarily focusing on Digital IC Design and DNN Hardware Accelerators.
+- I am currently a graduate student in NYCH working on DNN Accelerator and Digital IC Design
 
 <!-- 
 ## GitHub Statistics  
@@ -31,3 +31,9 @@ Quick Bio
 - MATLAB
 - C
   
+  
+## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-9370DB)
+- [DNN Accelerator](https://github.com/BoooC/Implementation-of-a-Flexible-and-Energy-Efficient-Accelerator-For-Sparse-Convolution-Neural-Network) 
+- [IC Design Contest](https://github.com/BoooC/ICDC) 
+- [QR Decomposition](https://github.com/BoooC/VLSI-DPS-HW/tree/master/HW4) 
+- [Text Adventure](https://github.com/BoooC/Text_Adventure) 
