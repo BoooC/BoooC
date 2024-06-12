@@ -1,6 +1,9 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoooC)
 
-Welcome! This is BoooC, a graduate student in EE at NYCU.
+Welcome! This is BoooC, a graduate student in EE at NYCU. 
+Here you can find various coursework, 
+class projects, my undergraduate capstone project from NCHU EE, 
+and a variety of side projects from both my university and graduate studies.
 
 <p align="center">
 <a href="https://github.com/BoooC">
