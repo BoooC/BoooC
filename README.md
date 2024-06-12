@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoooC)
 
-Welcome! This is BoooC, a graduate student in EE at NYCU.
+Welcome! This is BoooC, a undergraduate student at NCHU EE
 
 <p align="center">
 <a href="https://github.com/BoooC">
@@ -11,7 +11,7 @@ Welcome! This is BoooC, a graduate student in EE at NYCU.
   
 
 Quick Bio
-- I am currently a graduate student in NYCH working on DNN Accelerator and Digital IC Design
+- I am currently an undergraduate student at NCHU EE and plan to enroll in the master's program at NYCU EE in the fall of 2024, primarily focusing on Digital IC Design and DNN Hardware Accelerators.
 
 <!-- 
 ## GitHub Statistics  
