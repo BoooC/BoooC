@@ -24,7 +24,9 @@ and a variety of side projects from both my university and graduate studies.
 
 ## GitHub Statistics  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BoooC&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are the coding languages that I used.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoooC)](https://github.com/anuraghazra/github-readme-stats)
 
 
