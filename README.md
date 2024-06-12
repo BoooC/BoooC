@@ -21,7 +21,6 @@ and a variety of side projects from both my university and graduate studies.
 - Long-Term Vision: Contribute to innovations in semiconductor and artificial intelligence industries
 
 
-
 ## GitHub Statistics  
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BoooC&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -31,10 +30,10 @@ Here are the coding languages that I used.
 
 
 ## 📚 Langues  
-- Verilog
-- Python
+- Verilog/SystemVerilog
+- Python/PyTorch
 - MATLAB
-- C
+- C/C++
   
   
 ## 💡 Projects
@@ -42,3 +41,7 @@ Here are the coding languages that I used.
 - [IC Design Contest](https://github.com/BoooC/ICDC) 
 - [QR Decomposition](https://github.com/BoooC/VLSI-DPS-HW/tree/master/HW4) 
 - [Text Adventure](https://github.com/BoooC/Text_Adventure) 
+
+
+## 📬 Contact Me
+- Email: booo.c.chen@gmail.com
