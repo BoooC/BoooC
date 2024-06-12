@@ -35,7 +35,7 @@ Welcome! This is BoooC, a graduate student in EE at NYCU.
 - C
   
   
-## 💡 Projects  ![](https://img.shields.io/badge/Text_Editor-Sublime-9370DB)
+## 💡 Projects
 - [DNN Accelerator](https://github.com/BoooC/Implementation-of-a-Flexible-and-Energy-Efficient-Accelerator-For-Sparse-Convolution-Neural-Network) 
 - [IC Design Contest](https://github.com/BoooC/ICDC) 
 - [QR Decomposition](https://github.com/BoooC/VLSI-DPS-HW/tree/master/HW4) 
