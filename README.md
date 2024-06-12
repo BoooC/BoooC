@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoooC)
 
-Welcome! This is BoooC, a undergraduate student at NCHU EE
+Welcome! This is BoooC, an undergraduate student at NCHU EE
 
 <p align="center">
 <a href="https://github.com/BoooC">
