@@ -14,8 +14,7 @@ and a variety of side projects from both my university and graduate studies.
   
 
 ## 📖 Quick Bio
-- Current Status: NCHU EE, Undergraduate in Electrical Engineering
-- Future Plans: NYCU IEE, Master's Program starting Fall 2024
+- Current Status: NYCU IEE, Master's Program starting Fall 2024
 - Research Focus: Specialization in Digital IC Design and DNN Hardware Accelerators
 - Academic Goals: Develop expertise in cutting-edge digital circuit technologies and deep learning hardware applications
 - Long-Term Vision: Contribute to innovations in semiconductor and artificial intelligence industries
