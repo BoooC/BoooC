@@ -31,8 +31,8 @@ Here are the coding languages that I used.
 ## 📚 Langues  
 - Verilog/SystemVerilog
 - Python/PyTorch
+- C/C++/SystemC
 - MATLAB
-- C/C++
   
   
 ## 💡 Projects
