@@ -1,9 +1,7 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=BoooC)
 
 Welcome! This is BoooC, a graduate student in IEE at NYCU. 
-Here you can find various coursework, 
-class projects, my undergraduate capstone project from NCHU EE, 
-and a variety of side projects from both my university and graduate studies.
+Here you can find various class projects and side projects from both my university and graduate studies.
 
 <p align="center">
 <a href="https://github.com/BoooC">
@@ -15,9 +13,8 @@ and a variety of side projects from both my university and graduate studies.
 
 ## 📖 Quick Bio
 - Current Status: NYCU IEE, Master's Program starting Fall 2024
-- Research Focus: Specialization in Digital IC Design and DNN Hardware Accelerators
-- Academic Goals: Develop expertise in cutting-edge digital circuit technologies and deep learning hardware applications
-- Long-Term Vision: Contribute to innovations in semiconductor and artificial intelligence industries
+- Research Focus: Specialization in Digital IC Design and Transformer Hardware Accelerators
+- Interests: Advanced digital circuit technologies, low-power design, and hardware-accelerated deep learning
 
 
 ## 📊 GitHub Statistics  
@@ -35,9 +32,10 @@ Here are the coding languages that I used.
 - MATLAB
   
   
-## 💡 Projects
-- [DNN Accelerator](https://github.com/BoooC/Implementation-of-a-Flexible-and-Energy-Efficient-Accelerator-For-Sparse-Convolution-Neural-Network) 
-- [IC Design Contest](https://github.com/BoooC/ICDC) 
+## 💡 Featured Projects
+- [CNN Accelerator](https://github.com/BoooC/CNN-Accelerator-Based-on-Eyeriss-v2) 
+- [IC LAB](https://github.com/BoooC/NYCU_ICLAB_2024_FALL) 
+- [IC Design Contest](https://github.com/BoooC/IC-Contest-Cell-Based) 
 - [QR Decomposition](https://github.com/BoooC/VLSI-DPS-HW/tree/master/HW4) 
 - [Text Adventure](https://github.com/BoooC/Text_Adventure) 
 
